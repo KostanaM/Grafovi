@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kostana
+ *
+ */
+module Graph {
+}
